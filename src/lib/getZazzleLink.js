@@ -4,7 +4,7 @@ import Progress from './Progress.js';
 let imageUrl = 'https://edi6jgnosf.execute-api.us-west-2.amazonaws.com/Stage/put_image'
 
 const productKinds = {
-  mug: '168739066664861503'
+  mug: '256024312217710467'
 };
 
 function getZazzleLink(kind, imageUrl) {
@@ -14,7 +14,7 @@ function getZazzleLink(kind, imageUrl) {
   }
 
   const imageEncoded = encodeURIComponent(imageUrl);
-  return `https://www.zazzle.com/api/create/at-256024312217710467?rf=238740289122746090&ax=Linkover&pd=${productCode}&ed=true&tc=&ic=&t_map_iid=${imageEncoded}`;
+  return `https://www.zazzle.com/api/create/at-238740289122746090?rf=238740289122746090&ax=Linkover&pd=${productCode}&ed=true&tc=&ic=&t_map_iid=${imageEncoded}`;
 }
 
 export default function generateZazzleLink(canvas) {
