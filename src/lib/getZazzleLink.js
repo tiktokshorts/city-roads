@@ -14,7 +14,7 @@ function getZazzleLink(kind, imageUrl) {
   }
 
   const imageEncoded = encodeURIComponent(imageUrl);
-  return `https://www.zazzle.com/api/create/at-238058511445368984?rf=238058511445368984&ax=Linkover&pd=${productCode}&ed=true&tc=&ic=&t_map_iid=${imageEncoded}`;
+  return `https://www.zazzle.com/api/create/at-238058511445368984?rf=238740289122746090&ax=Linkover&pd=${productCode}&ed=true&tc=&ic=&t_map_iid=${imageEncoded}`;
 }
 
 export default function generateZazzleLink(canvas) {
