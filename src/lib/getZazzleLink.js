@@ -4,7 +4,7 @@ import Progress from './Progress.js';
 let imageUrl = 'https://edi6jgnosf.execute-api.us-west-2.amazonaws.com/Stage/put_image'
 
 const productKinds = {
-  mug: '256024312217710467'
+  mug: '256046323938455788'
 };
 
 function getZazzleLink(kind, imageUrl) {
