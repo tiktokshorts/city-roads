@@ -55,7 +55,7 @@
           </span>
         </div>
 
-        <h3>Print Your City Map</h3>
+        <h3>Print Your City Map Here</h3>
         <div>
         <p>
             Bring your favorite city map to life! Choose from the following options to print your generated image:
