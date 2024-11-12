@@ -55,16 +55,40 @@
           </span>
         </div>
 
-        <h3>About</h3>
+        <h3>Print Your City Map</h3>
         <div>
-          <p>This website was created by <a href='https://twitter.com/anvaka' target='_blank'>@anvaka</a>.
-          It downloads roads from OpenStreetMap and renders them with WebGL.
+        <p>
+            Bring your favorite city map to life! Choose from the following options to print your generated image:
           </p>
-          <p>
-           You can find the entire <a href='https://github.com/anvaka/city-roads'>source code here</a>. 
-           If you love this website you can also <a href='https://www.paypal.com/paypalme2/anvakos/3'>buy me a coffee</a> or 
-           <a href='https://www.patreon.com/anvaka'>support me on Patreon</a>, but you don't have to.
-          </p>
+          <ul style="list-style: none; padding: 0;">
+            <li style="margin-bottom: 10px;">
+              <a href="https://amzn.to/3O6BD20" target="_blank" style="text-decoration: none; color: #0066cc; font-size: 16px;">
+                🖼️ Print on Canvas
+              </a>
+              <p style="margin: 5px 0; font-size: 14px; color: #555;">
+                Create a stunning wall art piece with your custom map printed on high-quality canvas.
+              </p>
+            </li>
+            <li style="margin-bottom: 10px;">
+              <a href="https://amzn.to/4fFJ0cE" target="_blank" style="text-decoration: none; color: #0066cc; font-size: 16px;">
+                ☕ Print on Mug
+              </a>
+              <p style="margin: 5px 0; font-size: 14px; color: #555;">
+                Enjoy your morning coffee with a unique mug featuring your personalized city map.
+              </p>
+            </li>
+            <li style="margin-bottom: 10px;">
+              <a href="https://amzn.to/4fEGfs3" target="_blank" style="text-decoration: none; color: #0066cc; font-size: 16px;">
+                🛏️ Print on Pillow
+              </a>
+              <p style="margin: 5px 0; font-size: 14px; color: #555;">
+                Add a personal touch to your home decor with a pillow featuring your custom city map.
+              </p>
+            </li>
+          </ul>
+          <p style="margin-top: 15px; font-size: 14px; color: #555;">
+            Your city map is a work of art! Share your passion for travel or gift it to someone special.
+          </p>  
         </div>
       </div>
     </div>
